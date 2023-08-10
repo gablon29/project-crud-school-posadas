@@ -8,7 +8,7 @@ Tipicas de una aplicacion CRUD.
   <li>Update</li>
   <li>Delete</li>
 </ul>
-# Tecnologias
+<h1>Tecnologias</h1>
 <ul>
   <li>Java</li>
   <li>MySQL</li>
